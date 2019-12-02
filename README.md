@@ -11,7 +11,8 @@ Presentes del proyecto: Santiago Bastidas Rodriguez. Sebastian Correa Calle. Jua
 
 # Objectivos
 
-General: “Aplicar una solución del problema correspondiente al control de acceso del personal en la institución educativa Colegio Aníbal Fernández de Soto Sede B, haciendo uso de un sistema que permita a los directivos detallar y conocer el tipo de personas que ingresan a la institución aplicando conocimientos en análisis y gestión de software”.
+General: 
+“Aplicar una solución del problema correspondiente al control de acceso del personal en la institución educativa Colegio Aníbal Fernández de Soto Sede B, haciendo uso de un sistema que permita a los directivos detallar y conocer el tipo de personas que ingresan a la institución aplicando conocimientos en análisis y gestión de software”.
 
 Especificos:
 -   Diseñar un sistema, que logre identificar el tipo de personal que ingresa a la institución.
