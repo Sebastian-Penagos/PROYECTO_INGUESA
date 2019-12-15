@@ -12,17 +12,16 @@ Presentes del proyecto: Santiago Bastidas Rodriguez. Sebastian Correa Calle. Jua
 # Objetivos
 
 General: 
-“Aplicar una solución del problema correspondiente al control de acceso del personal en la institución educativa Colegio Aníbal Fernández de Soto Sede B, haciendo uso de un sistema que permita a los directivos detallar y conocer el tipo de personas que ingresan a la institución aplicando conocimientos en análisis y gestión de software”.
+Diseñar un sistema, que realice el control de acceso de Estudiantes, Docentes y Vinculados en la institución educativa Colegio Aníbal Fernández de Soto Sede B, haciendo uso de un sistema de información que permita a los directivos detallar y conocer el tipo de personas que ingresan a la institución,  con un método de gestión de software.
+
 
 Especificos:
--   Diseñar un sistema, que logre identificar el tipo de personal que ingresa a la institución.
--   Presentar una alternativa al uso común de documentos físicos para ingresar a la institución, dando uso por medio de una plataforma.
--   Corroborar si el sistema realizó un cambio contundente en la eficiencia y la eficacia en el ingreso del personal a la institución.
--   Comparar la efectividad que ambos sistemas poseen.
--   Generar ideas innovadoras y didácticas para el desarrollo del software, que se entregará a la institución educativa.
--   Discernir qué tipos de cambios se realizaron y si esto fueron positivos o negativos para la institución y las personas que asisten.
--   Identificar los estudiantes que tengan llegadas tarde y fallas.
--   Documentar las justificaciones de las fallas.
+-  Crear un sistema eficaz, dinamico, amigable e intuitivo para el uso de la institución.
+
+- Identificar los estudiantes que tengan un registro de llegadas tarde e inasistencias, para generar sus respectivos reportes.
+
+- Mantener un software de registro de actualizaciones del sistema.
+
 
 ## Planteamiento del problema 
 
