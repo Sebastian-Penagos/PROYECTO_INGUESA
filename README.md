@@ -29,7 +29,7 @@ La Institución Educativa Aníbal Fernández de Soto Sede B, se encuentra afecta
 
 ## Justificación 
 
-Para darle solución al problema se va a hacer uso de los conocimientos en análisis y gestión de software, con el fin de realizar un sistema que logre identificar el tipo de personal que ingresa a la institución dando así más confianza y seguridad al plantel educativo.
+Para darle solución al problema se va a hacer uso de los conocimientos en análisis y gestión de software, con el fin de realizar un sistema que logre controlar el tipo de personal que ingresa a la institución dando así más confianza y seguridad al plantel educativo.
 
  
 
